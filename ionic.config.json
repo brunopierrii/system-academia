@@ -1,0 +1,8 @@
+{
+  "name": "system-academia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "96a314a4"
+}
